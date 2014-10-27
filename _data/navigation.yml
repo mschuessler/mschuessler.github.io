@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Publications
+  url: https://dl.acm.org/author_page.cfm?id=87959376457
+
+#- title: Projects
+#  url: /pro/
+  
+#- title: CV
+#  url: /CV.pdf
+
+- title: MPI Group TU Berlin
+  url: https://www.qu.tu-berlin.de/menue/forschung/gruppen/mobile_physical_interaction/
+  
+#- title: Made Mistakes
+#  url: http://mademistakes.com

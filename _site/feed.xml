@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">mschuessler.de</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-10-27T17:36:09+01:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Martin Schuessler</name>
+  <uri>http://localhost:4000/</uri>
+  <email>schuesslerm@acm.org</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Just put up a simple website]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/New-Site/" />
+  <id>http://localhost:4000/New-Site</id>
+  <updated>2014-10-26T00:00:00-00:00</updated>
+  <published>2014-10-27T00:00:00+01:00</published>
+  
+  <author>
+    <name>Martin Schuessler</name>
+    <uri>http://localhost:4000</uri>
+    <email>schuesslerm@acm.org</email>
+  </author>
+  <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;Overview&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#hello-world&quot;&gt;Hello World&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;h1 id=&quot;hello-world&quot;&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;I decided that its finally time to make use of that URL i bought years ago. So far the site does not have much content and rather consists of links. I am planning to add my CV and more details about my projects and publication. I might even most once a quater or so… We shall see.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/New-Site/&quot;&gt;Just put up a simple website&lt;/a&gt; was originally published by Martin Schuessler at &lt;a href=&quot;http://localhost:4000&quot;&gt;mschuessler.de&lt;/a&gt; on October 27, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
