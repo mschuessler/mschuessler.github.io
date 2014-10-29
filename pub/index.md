@@ -40,4 +40,6 @@ Feel free to download my publications free of charge.
 
 ## Bachelor Thesis 2013
 [An Evaluation of Touch- and Spatial-based Zoom and Pan Techniques for Mobile Displays](https://owncloud.tu-berlin.de/public.php?service=files&t=0a8d0b69770b0b7139eabd89fb2c3bc7&download)
+<a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>
+
 
