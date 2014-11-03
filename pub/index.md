@@ -19,8 +19,6 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-Feel free to download my publications free of charge.
-
 ## CHI 2014
 <p>
 <!-- ACM DL Article: Pinch-drag-flick vs. spatial input: rethinking zoom & pan on mobile displays-->
