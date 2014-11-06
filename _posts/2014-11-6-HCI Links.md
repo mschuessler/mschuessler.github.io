@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CHI research Links
+title: CHI Research Links
 excerpt: "These Links may be useful for novice HCI researchers like me"
 modified: 2014-11-6
 tags: [HCI, Links, CHI]
@@ -12,7 +12,7 @@ image:
 ---
 
 # Useful links for novice HCI researchers
-I am currently going through the Proceedings of various HCI Conferences in order to define the topic of my master thesis. Call it procrastination, but in the process i came across some very useful links, i would like to share with you.
+I am currently going through the Proceedings of various HCI conferences in order to define the topic of my master thesis. Call it procrastination, but in the process i came across some very useful links, i would like to share with you.
 
 # Conferences
 Ok we all know CHI is considered top edge, but if you ever wondered which HCI conference is "better" than another here is an interesting metric for you.
@@ -24,6 +24,7 @@ Ok we all know CHI is considered top edge, but if you ever wondered which HCI co
 In case you wanted to know where current HCI research is heading, you might want to take a look at this [visual map of popular and unpopular topics at CHI in the last years](http://www.researchperspectives.org/CHI_Topics/#TrendMap)
 
 # The who-is-who game
-The HCI giants on who's shoulder you might stand on one day can be found [here](http://www.hcibib.org/authors.html). I also like to go through the affiliations of all [CHI](http://dl.acm.org/event.cfm?id=RE151) publications to get an idea which Labs currently growing strong. Of course this work for UIST and so on as well. 
+The HCI giants on who's shoulder you might stand on one day can be found [here](http://www.hcibib.org/authors.html). I also like to go through the affiliations of all [CHI](http://dl.acm.org/event.cfm?id=RE151) publications to get an idea which Labs currently growing strong. Of course this works for UIST and so on as well. 
+
 
 Update: Robert just told me that there is a [CHI ranking for German HCI Labs](https://hci.rwth-aachen.de/chi-ranking) 
