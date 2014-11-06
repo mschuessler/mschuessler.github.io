@@ -19,10 +19,11 @@ Ok we all know CHI is considered top edge, but if you ever wondered which HCI co
 
 <blockquote class="twitter-tweet" lang="en"><p>Top HCI publications according to Google&#39;s 2014 Scholar metrics <a href="http://t.co/1VcspEIjBI">http://t.co/1VcspEIjBI</a></p>&mdash; Jakub Dostal (@jakubdostal) <a href="https://twitter.com/jakubdostal/status/484806076253372416">July 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 # Visualization of Emerging HCI Topics
 In case you wanted to know where current HCI research is heading, you might want to take a look at this [visual map of popular and unpopular topics at CHI in the last years](http://www.researchperspectives.org/CHI_Topics/#TrendMap)
 
 # The who-is-who game
-The HCI giants on whos shoulder you might stand on one day can be found [here](http://www.hcibib.org/authors.html). I also like to got through the affiliations of [CHI](http://dl.acm.org/event.cfm?id=RE151) to get an idea which Labs currently growing strong. Of course this work for UIST and so on as well. 
+The HCI giants on who's shoulder you might stand on one day can be found [here](http://www.hcibib.org/authors.html). I also like to go through the affiliations of all [CHI](http://dl.acm.org/event.cfm?id=RE151) publications to get an idea which Labs currently growing strong. Of course this work for UIST and so on as well. 
 
-Update: RObert just told me that there is a [CHI ranking for German HCI Labs](https://hci.rwth-aachen.de/chi-ranking) 
+Update: Robert just told me that there is a [CHI ranking for German HCI Labs](https://hci.rwth-aachen.de/chi-ranking) 
