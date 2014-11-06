@@ -24,3 +24,5 @@ In case you wanted to know where current HCI research is heading, you might want
 
 # The who-is-who game
 The HCI giants on whos shoulder you might stand on one day can be found [here](http://www.hcibib.org/authors.html). I also like to got through the affiliations of [CHI](http://dl.acm.org/event.cfm?id=RE151) to get an idea which Labs currently growing strong. Of course this work for UIST and so on as well. 
+
+Update: RObert just told me that there is a [CHI ranking for German HCI Labs](https://hci.rwth-aachen.de/chi-ranking) 
