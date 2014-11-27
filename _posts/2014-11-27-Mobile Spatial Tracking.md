@@ -30,20 +30,15 @@ Apparently the Samsung S3 had a tilt to zoom feature - but if you think about it
 <iframe width="560" height="315" src="//www.youtube.com/embed/Fb1JwWkk1hI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Sensor Fusion
-There is a Google Tech Talk on fusing data of the intrinsic sensors and integrating accelerometer data, which will introduce you to the main problems you are facing when integrating over noisy data.
-
 <iframe width="420" height="315" src="//www.youtube.com/embed/C7JQ7Rpwn2k?rel=0&t=23m8s" frameborder="0" allowfullscreen></iframe>
 
+This Google Tech Talk on fusing data of the intrinsic sensors and integrating accelerometer data will introduce you to the main problems you are facing when integrating over noisy data.
 
-Microsoft research got very close to a solution. They built an image viewing application that adds face tracking to the input channel for sensory fusion. 
 <video width="420" height="315" controls="controls">
 <source src="http://research.microsoft.com/en-us/um/redmond/projects/lookingatyou/Video/LookingAtYou.mp4" type="video/mp4">
 </video>
 
-
-
-
-
+Microsoft research got very close to a solution. They built an image viewing application that adds face tracking to the input channel for sensory fusion.
 
 So you see we have two main problems here:
 
