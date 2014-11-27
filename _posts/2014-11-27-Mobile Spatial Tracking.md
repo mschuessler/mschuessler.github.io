@@ -16,7 +16,7 @@ image:
 ![spatial display](../images/movePhone.gif)
 -->
 In our [CHI 14 paper](../pub) we described a user study comparing spatial navigation using the peephole metaphor with multitouch:
-> _"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
+_"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
 
 # FAQ: _Why Didn't You Use the Built-in Gyro?_
 ![Opti Track](../images/optitrack.jpg)
@@ -33,13 +33,18 @@ Apparently the Samsung S3 had a tilt to zoom feature - but if you think about it
 There is a Google Tech Talk on fusing data of the intrinsic sensors and integrating accelerometer data, which will introduce you to the main problems you are facing when integrating over noisy data.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/C7JQ7Rpwn2k?rel=0&t=23m8s" frameborder="0" allowfullscreen></iframe>
-<p/>
+
 
 Microsoft research got very close to a solution. They built an image viewing application that adds face tracking to the input channel for sensory fusion. 
 <video width="420" height="315" controls="controls">
 <source src="http://research.microsoft.com/en-us/um/redmond/projects/lookingatyou/Video/LookingAtYou.mp4" type="video/mp4">
 </video>
-<p/>
+
+
+
+
+
+
 So you see we have two main problems here:
 
 - noise
