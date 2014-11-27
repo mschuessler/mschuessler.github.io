@@ -33,13 +33,13 @@ Apparently the Samsung S3 had a tilt to zoom feature - but if you think about it
 There is a Google Tech Talk on fusing data of the intrinsic sensors and integrating accelerometer data, which will introduce you to the main problems you are facing when integrating over noisy data.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/C7JQ7Rpwn2k?rel=0&t=23m8s" frameborder="0" allowfullscreen></iframe>
-
+<p/>
 
 Microsoft research got very close to a solution. They built an image viewing application that adds face tracking to the input channel for sensory fusion. 
 <video width="420" height="315" controls="controls">
 <source src="http://research.microsoft.com/en-us/um/redmond/projects/lookingatyou/Video/LookingAtYou.mp4" type="video/mp4">
 </video>
-
+<p/>
 So you see we have two main problems here:
 
 - noise
@@ -52,5 +52,5 @@ The far most promising solution could be [Project Tango](https://www.google.com/
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
 
-## Cheaper External Tracking
+##Next Week: Cheaper External Tracking
 Next week I will extend this article on external tracking solutions - yes I know they are not mobile, but they will still enable more people to get their hands on spatially aware devices.
