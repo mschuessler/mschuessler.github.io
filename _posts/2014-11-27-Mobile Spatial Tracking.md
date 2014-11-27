@@ -46,9 +46,9 @@ So you see we have to main problems here:
 These two issues will influence the user experience and performance tremendously. Said in other words: you loose that 35% when you use one of the above solutions. So i am still waiting for someone to come up with a solution, so that we can get rid of the bulky OptiTrackSystem
 
 # How long until we have device intrinsic spatial tracking?
-The far most promising solution could Project Tango by Google. As experts in Computer Vison and Robotics are working on it, i am really exited about this project. However i wonder what the accuracy of the spatial localization will be like. I am convinced it take quite a high accuracy to make the dynamic peephole metaphor work.
+The far most promising solution could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, i am really exited about this project. However i wonder what the accuracy of the spatial localization will be like. I am convinced it take quite a high accuracy to make the dynamic peephole metaphor work.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Cheaper external tracking
-Next week i will extend this article on external tracking solutions - yes i know there not mobile, but they will still enable more people to get there hands on spatially aware devices
+Next week i will extend this article on external tracking solutions - yes i know they are not mobile, but they will still enable more people to get there hands on spatially aware devices
