@@ -12,8 +12,8 @@ image:
 ---
 
 # The superiority of dynamic peepholes
-![spatial display](movePhone.gif)
-In our [CHI 14 paper](www.mschuessler.de/pub/) we described a user study comparing spatial navigation using the peephole metaphor with multitouch: _"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
+![spatial display](../images/movePhone.gif)
+In our [CHI 14 paper](../pub) we described a user study comparing spatial navigation using the peephole metaphor with multitouch: _"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
 
 # FAQ: _Why didn't you use the builtin gyro?_
 ![Opti Track](optitrack.jpg)
