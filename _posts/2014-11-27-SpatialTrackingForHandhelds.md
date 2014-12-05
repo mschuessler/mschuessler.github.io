@@ -2,7 +2,7 @@
 layout: post
 title: Spatial Tracking for Handhelds
 excerpt: "Intrinsic and cheap external tracking for phones and tablets"
-modified: 2014-11-27
+modified: 2014-12-5
 tags: [HCI, Spatial, CHI]
 comments: true
 image:
@@ -51,6 +51,9 @@ These two issues will influence the user experience and performance tremendously
 The far most promising solution could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. However, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
+
+## Update 5th December
+__I've been whitelisted for the Dev kit! Hopefully i get to try it soon!__
 
 ##Next Week: Cheaper External Tracking
 Next week I will extend this article on external tracking solutions - yes I know they are not mobile, but they will still enable more people to get their hands on spatially aware devices.
