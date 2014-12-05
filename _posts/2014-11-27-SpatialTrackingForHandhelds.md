@@ -48,8 +48,10 @@ So you see we have two main problems here:
 These two issues will influence the user experience and performance tremendously. In other words: you loose that 35% when you use one of the above solutions. So I am still waiting for someone to come up with a solution, so that we can get rid of the bulky OptiTrackSystem.
 
 # How Long until We Have Device Intrinsic Spatial Tracking?
-Spatial Displays are by far not the only devices that need to be aware of their location and sourundings. This is also a very fundamental question in robotics. In robotics localization problem is very close to a usable solution, as there have been great advances in SLAM (
-The far most promising solution could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. However, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work.
+with depth cameras and feature based tracking algorithms ths solution most likly be an optical aproach coming out of the research area of computer vision. Spatial Displays are by far not the only devices that need to be aware of their own location and roataion (= 6 DoF location). This is also a very fundamental question in robotics. Robots also need to additonaly construct a map of their sourunding enviroment. This computaional problen is called __SLAM__ _Simultaneous localization and mappping_. There have been amazing advances in that field, otherwise we would not have seen [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car#2010s). However, Robert just pointed me to the [LSD-SLAM algoirthm developed by Computer Vison Group at TUM](http://vision.in.tum.de/research/lsdslam?redirect=1). This algorithm solves the SLAM problem using a single camera, runs on a smartphone
+
+
+So the far most promising solution to our problem could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. Tango really benefits from the advances in computer vision that have been made However, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
 
