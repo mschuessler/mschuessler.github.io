@@ -22,7 +22,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 # Why Spatial Displays? The Superiority of Dynamic Peepholes
-![spatial display](../images/movePhone.gif)
+<!---![spatial display](../images/movePhone.gif)-->
 
 In our [CHI 14 paper](../pub) we described a user study comparing spatial navigation using the peephole metaphor with multitouch:
 _"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
@@ -37,6 +37,7 @@ _"The results surpassed our expectations in various ways. On average, participan
 | internal visual with IR  	|   	|   	|
 | external visual with IR  	| TangibleDisplaysForTheMasses, HuddleLamp  	|   	|
 -->
+
 # Overview of Low Cost Tracking Alternatives
 ![Opti Track](../images/optitrack.jpg)
 
@@ -60,13 +61,13 @@ Microsoft research got very close to a solution. They built an image viewing app
 Still looking at the video we can identify two main problems here: inaccuracy and latency. These two issues will influence the user experience tremendously. In other words: __you loose that 35% when you use any of the above solutions.__
 
 # INTERNAL VISUAL LOCALIZATION AND MAPPING - SLAM and TANGO
-I believe that mobile 6DoF tracking will originate from computer vision research, more precisely the kind CV research that is driven by the billon dollar research area of robotics. If you think about it Spatial Displays are by far not the only devices that need to be aware of their own location and rotation with in a reference frame. This is also a very fundamental question in robotics: robots constantly need to know what their environment looks like and where they are located within it.  This computational problem is called __SLAM__ _Simultaneous localization and mapping_. There have been amazing advances in that field, otherwise we would not have seen [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car#2010s). 
+I believe that mobile 6DoF tracking will originate from computer vision research, more precisely the kind of CV research that is driven by the billon dollar research area of robotics. If you think about it Spatial Displays are by far not the only devices that need to be aware of their own location and rotation with in a reference frame. This is also a very fundamental question in robotics: robots constantly need to know what their environment looks like and where they are located within it.  This computational problem is called __SLAM__ _Simultaneous localization and mapping_. There have been amazing advances in that field, otherwise we would not have seen [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car#2010s). 
 
-If you want to build a spatial displays yourself, without using a depth camera, I suggest you take a look at [LSD-SLAM algorithm developed by Computer Vision Group at TUM](http://vision.in.tum.de/research/lsdslam?redirect=1) (thx [Robert](http://www.rwalter.de)). This algorithm solves the SLAM problem using a single camera, and runs on a smartphone. And yet again I wonder what the accuracy would be like, compared to an OptiTrackSystem
+The [LSD-SLAM algorithm developed by Computer Vision Group at TUM](http://vision.in.tum.de/research/lsdslam?redirect=1) (thx [Robert](http://www.rwalter.de) for the hint) even solves the SLAM problem using a __single camera, and runs on a smartphone__. However, I wonder what the accuracy would be like, compared to an OptiTrackSystem (send me an eMail if you know).
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/GnuQzP3gty4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-However of all projects mentioned the far most promising solution to our problem could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. However, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work. It would be an interesting thing to find out how much exactly, wouldn't it?
+However the following project is the far most promising: [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. And yet again, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work. It would be an interesting thing to find out how much exactly, wouldn't it?
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -82,10 +83,10 @@ For a long time we had to rely on external tracking systems for reliable spatial
 However HuddleLamp currently only provides 2D tracking. Maybe someone with a background in computer vision is  able to [fork HuddleLamp on Github](http://huddlelamp.org/#try-it) and extend it to 6DoF tracking. Since gyroscopes are available in most handheld devices, the only unknown dimension left is the height of the device above the ground plane. However if we remember the shape of the device on the ground plane we can calculate its hight by the changes in shape size when taking into account the already known rotation from the gyroscope.
 
 
-
+<!---
 # Some thoughts on what's next? Distributed User Interfaces with Spatial Displays
 For a spatial aware display that ought to be used in a multimodal, mutlidisplay and multisuface environment two additional processes are required: Registration and Assignment.
 In the registration process the device  notifies other proximate devices of its presence, capabilities and other properties relevant to the interaction scenario. After registration, the device is assigned to their role in the interaction with the user. These two processes should be automatic, and preferably decentral, so they do not create much overhead for the user. Here is an example of 
-<!---
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/AyL_s6N6rNI?rel=0" frameborder="0" allowfullscreen></iframe>
 -->
