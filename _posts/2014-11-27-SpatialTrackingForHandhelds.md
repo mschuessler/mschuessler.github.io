@@ -22,13 +22,12 @@ image:
 </section><!-- /#table-of-contents -->
 
 # Why Spatial Displays? The Superiority of Dynamic Peepholes
-<!---
 ![spatial display](../images/movePhone.gif)
--->
+
 In our [CHI 14 paper](../pub) we described a user study comparing spatial navigation using the peephole metaphor with multitouch:
 _"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
 
-
+<!---
 # 
 
 |   	| low dimensional (below 6DoF)|high dimensional (6DoF)  	|
@@ -37,8 +36,7 @@ _"The results surpassed our expectations in various ways. On average, participan
 | internal visual without IR  	|   	|   	|
 | internal visual with IR  	|   	|   	|
 | external visual with IR  	| TangibleDisplaysForTheMasses, HuddleLamp  	|   	|
-
-
+-->
 # Overview of Low Cost Tracking Alternatives
 ![Opti Track](../images/optitrack.jpg)
 
@@ -88,5 +86,6 @@ However HuddleLamp currently only provides 2D tracking. Maybe someone with a bac
 # Some thoughts on what's next? Distributed User Interfaces with Spatial Displays
 For a spatial aware display that ought to be used in a multimodal, mutlidisplay and multisuface environment two additional processes are required: Registration and Assignment.
 In the registration process the device  notifies other proximate devices of its presence, capabilities and other properties relevant to the interaction scenario. After registration, the device is assigned to their role in the interaction with the user. These two processes should be automatic, and preferably decentral, so they do not create much overhead for the user. Here is an example of 
-
+<!---
 <iframe width="560" height="315" src="//www.youtube.com/embed/AyL_s6N6rNI?rel=0" frameborder="0" allowfullscreen></iframe>
+-->
