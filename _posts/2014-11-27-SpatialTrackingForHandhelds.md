@@ -62,11 +62,11 @@ I believe that mobile 6DoF tracking will originate from computer vision research
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
 
-## Update 5th December: Tango Dev Kits
+### Update 5th December: Tango Dev Kits
 __I've been whitelisted for the Dev kit! Hopefully i get to try it soon!__
 
 
-## Spatial Displays without depth cameras: LSD-SLAM
+# Spatial Displays without depth cameras: LSD-SLAM
 If you want to build a spatial displays yourself, without using a depth camera, i suggest you take a look at [LSD-SLAM algorithm developed by Computer Vision Group at TUM](http://vision.in.tum.de/research/lsdslam?redirect=1) (thx [Robert](http://www.rwalter.de)). This algorithm solves the SLAM problem using a single camera, and runs on a smartphone. And yet again I wonder what the accuracy would be like, compared to an OptiTrackSystem
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/GnuQzP3gty4?rel=0" frameborder="0" allowfullscreen></iframe>
