@@ -2,14 +2,24 @@
 layout: post
 title: Spatial Tracking for Handhelds
 excerpt: "Cheap Intrinsic and external tracking for phones and tablets"
-modified: 2014-12-5
-tags: [HCI, Spatial, CHI]
+modified: 2014-12-15
+tags: [HCI, Spatial, CHI, Tango]
 comments: true
 image:
   feature: tango.jpg
   credit: Project Tango
   creditlink: https://www.google.com/atap/projecttango/#project
 ---
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
 # The Superiority of Dynamic Peepholes
 <!---
@@ -22,7 +32,6 @@ _"The results surpassed our expectations in various ways. On average, participan
 ![Opti Track](../images/optitrack.jpg)
 
 Ever since we showed our interactivity at CHI´14 and at the [IML Dresden](http://mt.inf.tu-dresden.de/en) Open Lab Days after ITS2014, inquisitive natures of various kinds have been looking at our OptiTrack System (priced at more than €10.000) and wondered: __"Is that really necessary?"__
-
 I have be pointed to various projects, that have used the gyro or the camera to track devices in space. Here are a couple of examples:
 
 ## Tilt to zoom
@@ -50,7 +59,9 @@ These two issues will influence the user experience tremendously. In other words
 
 # How Long Until We Have Device Intrinsic Spatial Tracking?
 I believe that mobile 6DoF tracking will originate from computer vision research, more precisely the kind CV research that is driven by the billon dollar research area of robotics. If you think about it Spatial Displays are by far not the only devices that need to be aware of their own location and rotation with in a reference frame. This is also a very fundamental question in robotics: robots constantly need to know what their environment looks like and where they are located within it.  This computational problem is called __SLAM__ _Simultaneous localization and mapping_. There have been amazing advances in that field, otherwise we would not have seen [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car#2010s). So the far most promising solution to our problem could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. However, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work. It would be an interesting thing to find out how much exactly, wouldn't it?
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
+
 ## Update 5th December: Tango Dev Kits
 __I've been whitelisted for the Dev kit! Hopefully i get to try it soon!__
 
