@@ -27,6 +27,7 @@ image:
 In our [CHI 14 paper](../pub) we described a user study comparing spatial navigation using the peephole metaphor with multitouch:
 _"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/8sswFs62aqw?rel=0" frameborder="0" allowfullscreen></iframe>
 <!---
 # 
 
