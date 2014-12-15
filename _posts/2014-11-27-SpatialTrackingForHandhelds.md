@@ -71,8 +71,19 @@ If you want to build a spatial displays yourself, without using a depth camera, 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/GnuQzP3gty4?rel=0" frameborder="0" allowfullscreen></iframe>
 
+# For now: Cheaper External Tracking using depth cameras
+For a long time we had to rely on external tracking systems for reliable spatial tracking. Now it seems we'll see spatially aware mobile devices which are available to the masses in the near future. Still, it will take some time until those device get a noticeable share of the market and it remains unclear how aware these devices will be of one another. This awareness of device of one another is an mandatory to map multiple Spatial Displays to the the same information space. So if you can't wait for Google Tango, and an OptiTrackSystem the alternative might be stationay tracking using a depth sensing camera. In my previous lab in Magdeburg Spindler et al. successfully replaced the OptiTrackSystem with a Kinect (see [Journal Article as pdf](http://imld.de/cnt/uploads/PuCTangibleDisplaysForTheMasses.pdf))
 
 
 
-##Coming soon: Cheaper External Tracking
-Next week I will extend this article on external tracking solutions - yes I know they are not mobile, but they will still enable more people to get their hands on spatially aware devices.
+# What's next? Distributed User Interfaces with Spatial Displays
+For a spatial aware display that ought to be used in a multimodal, mutlidisplay and multisuface environment two additional processes are required: Registration and Assignment.
+In the registration process the device  notifies other proximate devices of its presence, capabilities and other properties relevant to the interaction scenario. After registration, the device is assigned to their role in the interaction with the user. These two processes should be automatic, and preferably decentral, so they do not create much overhead for the user. Here is an example of 
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/AyL_s6N6rNI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Quite a bit of work has been done on these collaborative enviroments 
+
+- unified mapping among the devices
+- 
+
