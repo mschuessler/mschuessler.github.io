@@ -20,15 +20,6 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
-
-# Why Spatial Displays? The Superiority of Dynamic Peepholes
-<!---![spatial display](../images/movePhone.gif)-->
-
-In our [CHI 14 paper](../pub) we described a user study comparing spatial navigation using the peephole metaphor with multitouch:
-_"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/8sswFs62aqw?rel=0" frameborder="0" allowfullscreen></iframe>
-
 <!---
 # 
 
@@ -39,6 +30,15 @@ _"The results surpassed our expectations in various ways. On average, participan
 | internal visual with IR  	|   	|   	|
 | external visual with IR  	| TangibleDisplaysForTheMasses, HuddleLamp  	|   	|
 -->
+# Why Spatial Displays? The Superiority of Dynamic Peepholes
+<!---![spatial display](../images/movePhone.gif)-->
+
+In our [CHI 14 paper](../pub) we described a user study comparing spatial navigation using the peephole metaphor with multitouch:
+_"The results surpassed our expectations in various ways. On average, participants were more than **35% faster** with the spatial approach, even though all of them were conversant with Pinch-Drag-Flick and used the spatial technique for the first time. This finding was further supported by the questionnaires, where participants rated the spatial approach at least as good as or even better than the touch-based counterpart."_
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/8sswFs62aqw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 
 # Overview of Low Cost Tracking Alternatives
 Ever since we showed our interactivity at CHI´14 and at the [IML Dresden](http://mt.inf.tu-dresden.de/en) Open Lab Days after ITS2014, inquisitive natures of various kinds have been looking at our OptiTrack System (priced at more than €10.000) and wondered: __"Is that really necessary?"__
@@ -47,7 +47,7 @@ Ever since we showed our interactivity at CHI´14 and at the [IML Dresden](http:
 I have been pointed to various projects, that people believed could replace the OptitrackSystem. So I decided to write this article to provide an overview of the suggestions and my thoughts about them.
 
 
-# INTERNAL NON-VISUAL SENSORY FUSION
+# Internal Non-Visual Sensory Fusion
 <iframe width="560" height="315" src="//www.youtube.com/embed/Fb1JwWkk1hI?rel=0" frameborder="0" allowfullscreen></iframe>
 One of our reviewers pointed out that the Samsung S3 had a tilt to zoom feature using the gyrosope - but if you think about it we need 6 DoF tracking and this is only 1 DoF. However if you have the acceleration and orientation of a device you can __theoretically__ determine its position over time.
 
@@ -55,21 +55,21 @@ One of our reviewers pointed out that the Samsung S3 had a tilt to zoom feature 
 
 This Google Tech Talk (start at 23:08) on fusing data of the intrinsic sensors and integrating accelerometer data will introduce you to the main problems you are facing when integrating over noisy data. I am not aware that anyone was able to solve this yet.
 
-# INTERNAL VISUAL SENSORY FUSION: LookingAtYou
+# Internal Non-Visual Sensory Fusion - LookingAtYou
 <video width="420" height="315" controls="controls">
 <source src="http://research.microsoft.com/en-us/um/redmond/projects/lookingatyou/Video/LookingAtYou.mp4" type="video/mp4">
 </video>
 Microsoft research got very close to a solution. They built an image viewing application that adds face tracking to the input channel for sensory fusion.
 Still looking at the video we can identify two main problems here: inaccuracy and latency. These two issues will influence the user experience tremendously. In other words: __you loose that 35% when you use any of the above solutions.__
 
-# INTERNAL VISUAL LOCALIZATION AND MAPPING - SLAM and TANGO
+# Internal Visual Localization and Mapping - SLAM and Tango
 I believe that mobile 6DoF tracking will originate from computer vision research, more precisely the kind of CV research that is driven by the billon dollar research area of robotics. If you think about it Spatial Displays are by far not the only devices that need to be aware of their own location and rotation with in a reference frame. This is also a very fundamental question in robotics: robots constantly need to know what their environment looks like and where they are located within it.  This computational problem is called __SLAM__ _Simultaneous localization and mapping_. There have been amazing advances in that field, otherwise we would not have seen [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car#2010s). 
 
 The [LSD-SLAM algorithm developed by Computer Vision Group at TUM](http://vision.in.tum.de/research/lsdslam?redirect=1) (thx [Robert](http://www.rwalter.de) for the hint) even solves the SLAM problem using a __single camera, and runs on a smartphone__. However, I wonder what the accuracy would be like, compared to an OptiTrackSystem (send me an eMail if you know).
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/GnuQzP3gty4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-However the following project is the far most promising: [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. And yet again, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work. It would be an interesting thing to find out how much exactly, wouldn't it?
+However the following project is the far most promising: __[Project Tango](https://www.google.com/atap/projecttango/#project)__ by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. And yet again, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work. It would be an interesting thing to find out how much exactly, wouldn't it?
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
 
