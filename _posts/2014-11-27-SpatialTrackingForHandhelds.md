@@ -48,20 +48,18 @@ So you see we have two main problems here:
 These two issues will influence the user experience and performance tremendously. In other words: you loose that 35% when you use one of the above solutions. So I am still waiting for someone to come up with a solution, so that we can get rid of the bulky OptiTrackSystem.
 
 # How Long Until We Have Device Intrinsic Spatial Tracking?
-I belive that the mobile 6DoF tracking will originate from computer vision reserach, more percisley the kind CV research that is driven by the billon dollar research area of robotics. If you think about it Spatial Displays are by far not the only devices that need to be aware of their own location and roataion (= 6 DoF location). This is also a very fundamental question in robotics: robots constantly need to know what their einviroment looks like an where they are located within it.  This computaional problen is called __SLAM__ _Simultaneous localization and mappping_. There have been amazing advances in that field, otherwise we would not have seen [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car#2010s). So the far most promising solution to our problem could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. However, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work (Would be an interessing thing to find out how much exactly)
-
-However, my colleage Robert just pointed me to the [LSD-SLAM algoirthm developed by Computer Vison Group at TUM](http://vision.in.tum.de/research/lsdslam?redirect=1). This algorithm solves the SLAM problem using a single camera, and runs on a smartphone.
-
-
-
-
+I belive that mobile 6DoF tracking will originate from computer vision reserach, more percisley the kind CV research that is driven by the billon dollar research area of robotics. If you think about it Spatial Displays are by far not the only devices that need to be aware of their own location and roataion with in a reference frame. This is also a very fundamental question in robotics: robots constantly need to know what their einviroment looks like an where they are located within it.  This computaional problen is called __SLAM__ _Simultaneous localization and mappping_. There have been amazing advances in that field, otherwise we would not have seen [self driving cars](http://en.wikipedia.org/wiki/Autonomous_car#2010s). So the far most promising solution to our problem could be [Project Tango](https://www.google.com/atap/projecttango/#project) by ATAP (Google). As experts in Computer Vision and Robotics are working on it, I am really exited about this project. However, I wonder what the accuracy of the spatial localization will be like. I am convinced it takes quite a high accuracy to make the dynamic peephole metaphor work (Would be an interessing thing to find out how much exactly).
 <iframe width="560" height="315" src="//www.youtube.com/embed/44vppay5UDc?rel=0" frameborder="0" allowfullscreen></iframe>
-
 ## Update 5th December: Tango Dev Kits
 __I've been whitelisted for the Dev kit! Hopefully i get to try it soon!__
 
-## Update 2 5th December: Real-time visual odometry for a monocular camera
-Robert just pointed me to LSD-SLAM, 
 
-##Next Week: Cheaper External Tracking
+## Spatial Displays without depth cameras: LSD-SLAM
+If you want to build a spatial displays yourself, without using a depth camera, i suggest you take a look at [LSD-SLAM algoirthm developed by Computer Vison Group at TUM](http://vision.in.tum.de/research/lsdslam?redirect=1) (thx [Robert](http://www.rwalter.de)). This algorithm solves the SLAM problem using a single camera, and runs on a smartphone. And yet again i wonder what the accuracy would be like.
+
+
+
+
+
+##Coming soon: Cheaper External Tracking
 Next week I will extend this article on external tracking solutions - yes I know they are not mobile, but they will still enable more people to get their hands on spatially aware devices.
