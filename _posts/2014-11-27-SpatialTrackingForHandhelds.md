@@ -49,9 +49,9 @@ I have been pointed to various projects, that people believed could replace the 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Fb1JwWkk1hI?rel=0" frameborder="0" allowfullscreen></iframe>
 One of our reviewers pointed out that the Samsung S3 had a tilt to zoom feature using the gyrosope - but if you think about it we need 6 DoF tracking and this is only 1 DoF. However if you have the acceleration and orientation of a device you can __theoretically__ determine its position over time.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/C7JQ7Rpwn2k?rel=0&t=23m8s" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/C7JQ7Rpwn2k?t=23m8s&rel=0" frameborder="0" allowfullscreen></iframe>
 
-This Google Tech Talk on fusing data of the intrinsic sensors and integrating accelerometer data will introduce you to the main problems you are facing when integrating over noisy data. I am not aware that anyone was able to solve this yet.
+This Google Tech Talk (start at 23:08) on fusing data of the intrinsic sensors and integrating accelerometer data will introduce you to the main problems you are facing when integrating over noisy data. I am not aware that anyone was able to solve this yet.
 
 # INTERNAL VISUAL SENSORY FUSION: LookingAtYou
 <video width="420" height="315" controls="controls">
