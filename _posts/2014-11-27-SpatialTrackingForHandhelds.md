@@ -10,6 +10,12 @@ image:
   credit: Project Tango
   creditlink: https://www.google.com/atap/projecttango/#project
 ---
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@doitgoodbrutus">
+<meta name="twitter:creator" content="@doitgoodbrutus">
+<meta name="twitter:title" content="Spatial Tracking for Handhelds">
+<meta name="twitter:description" content="After gyroscopes and accelrometers handheld devices are now moving to the next level. Making devices fully spatialy aware opens up numerous possibilities for new ways of intercation - but how close are we to this technolgy yet?">
+<meta name="twitter:image:src" content="http://mschuessler.de/images/tango.jpg">
 
 <section id="table-of-contents" class="toc">
   <header>
