@@ -19,11 +19,12 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 ## UbiComp 2015
+<p>
 <!-- ACM DL Article: Analyzing visual attention during whole body interaction with public displays -->
 <div class="acmdlitem" id="item2804255"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N07696" title="Analyzing visual attention during whole body interaction with public displays">Analyzing visual attention during whole body interaction with public displays</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81488640442" >Robert Walter</a>, <a href="http://dl.acm.org/author_page.cfm?id=81372593219" >Andreas Bulling</a>, <a href="http://dl.acm.org/author_page.cfm?id=81558156356" >David Lindlbauer</a>, <a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>, <a href="http://dl.acm.org/author_page.cfm?id=81436600078" >J&#246;rg M&#252;ller</a><br />UbiComp '15 Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing,&nbsp;2015</div></div>
 <!-- ACM DL Bibliometrics: Analyzing visual attention during whole body interaction with public displays-->
 <div class="acmdlstat" id ="stats2804255"><iframe src="http://dl.acm.org/authorizestats?N07696" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div>
-
+</p>
 ## CHI 2014
 <p>
 <!-- ACM DL Article: Pinch-drag-flick vs. spatial input: rethinking zoom & pan on mobile displays-->
