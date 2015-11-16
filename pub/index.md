@@ -19,7 +19,6 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-Feel free to download my publications free of charge.
 
 ## UbiComp 2105
 <p>
