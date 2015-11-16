@@ -25,6 +25,7 @@ image:
 <!-- ACM DL Bibliometrics: Analyzing visual attention during whole body interaction with public displays-->
 <div class="acmdlstat" id ="stats2804255"><iframe src="http://dl.acm.org/authorizestats?N07696" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div>
 </p>
+<br>
 ## CHI 2014
 <p>
 <!-- ACM DL Article: Pinch-drag-flick vs. spatial input: rethinking zoom & pan on mobile displays-->
