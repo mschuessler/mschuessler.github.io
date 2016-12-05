@@ -20,7 +20,8 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-## UbiComp 2105
+
+## UbiComp 2015
 <p>
 	<!-- ACM DL Article: Analyzing visual attention during whole body interaction with public displays-->
 	<div class="acmdlitem" id="item2804255"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N07696" title="Analyzing visual attention during whole body interaction with public displays">Analyzing visual attention during whole body interaction with public displays</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81488640442" >Robert Walter</a>, <a href="http://dl.acm.org/author_page.cfm?id=81372593219" >Andreas Bulling</a>, <a href="http://dl.acm.org/author_page.cfm?id=81558156356" >David Lindlbauer</a>, <a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>, <a href="http://dl.acm.org/author_page.cfm?id=81436600078" >Jörg Müller</a><br />UbiComp '15 Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2015</div></div>
@@ -45,6 +46,11 @@ image:
 <!-- ACM DL Bibliometrics: Move your phone: spatial input-based document zoom & pan on mobile displays revisited-->
 <div class="acmdlstat" id ="stats2574777"><iframe src="http://dl.acm.org/authorizestats?N80208" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
 </p>
+
+## Design thinking research symposium 2016
+[Axel Menning](http://www.axelmenning.com), Bastien Marvin Grasnick, [Benedikt Ewald](https://www.linkedin.com/in/benedikt-ewald), [Andrea Scheer](https://hpi.de/en/school-of-design-thinking/hpi-d-school/team/andrea-scheer.html), [Franziska Dobrigkeit](https://hpi.de/en/plattner/people/phd-students/franziska-dobrigkeit.html), Martin Schuessler, [Claudia Nicolai](https://hpi.de/en/school-of-design-thinking/hpi-d-school/team/for-students.html), *"Combining computational and human analysis to study coherence in design conversations"* (to appear)
+
+
 
 ## Bachelor Thesis 2013
 [An Evaluation of Touch- and Spatial-based Zoom and Pan Techniques for Mobile Displays](http://mschuessler.de/pub/BachelorThesis.pdf)
