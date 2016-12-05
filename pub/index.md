@@ -47,7 +47,7 @@ image:
 <div class="acmdlstat" id ="stats2574777"><iframe src="http://dl.acm.org/authorizestats?N80208" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
 </p>
 
-## Design thinking research symposium 2016
+## Design Thinking Research Symposium 2016
 [Axel Menning](http://www.axelmenning.com), Bastien Marvin Grasnick, [Benedikt Ewald](https://www.linkedin.com/in/benedikt-ewald), [Andrea Scheer](https://hpi.de/en/school-of-design-thinking/hpi-d-school/team/andrea-scheer.html), [Franziska Dobrigkeit](https://hpi.de/en/plattner/people/phd-students/franziska-dobrigkeit.html), Martin Schuessler, [Claudia Nicolai](https://hpi.de/en/school-of-design-thinking/hpi-d-school/team/for-students.html), *"Combining computational and human analysis to study coherence in design conversations"* (to appear)
 
 
