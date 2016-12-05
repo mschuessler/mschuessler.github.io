@@ -48,7 +48,10 @@ image:
 
 ## Bachelor Thesis 2013
 [An Evaluation of Touch- and Spatial-based Zoom and Pan Techniques for Mobile Displays](https://owncloud.tu-berlin.de/public.php?service=files&t=0a8d0b69770b0b7139eabd89fb2c3bc7&download)
-<a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>
+<!--<a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>-->
+
+## Master Thesis 2016
+[Spatial Input for 2D Peephole Navigation on Mobile Devices](http://mschuessler.de/pub/MasterThesis.pdf)
 
 ## Submitted Patents
 Bernhard Löhlein, Mehran Roshandel, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), "Verfahren und System zum Bewerten von erhobenen Messwerten eines Systems" - EPA AZ: 13186464.7
