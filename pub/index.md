@@ -60,4 +60,4 @@ image:
 [Spatial Input for 2D Peephole Navigation on Mobile Devices](http://mschuessler.de/pub/MasterThesis.pdf)
 
 ## Submitted Patents
-Bernhard Löhlein, Mehran Roshandel, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), "Verfahren und System zum Bewerten von erhobenen Messwerten eines Systems" - EPA AZ: 13186464.7
+Bernhard Löhlein, Mehran Roshandel, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), ["Method and system for the evaluation of recorded measured values of a system"](https://data.epo.org/gpi/EP2854045A1-Method-and-system-for-the-evaluation-of-recorded-measured-values-of-a-system) - EPA AZ: 13186464.7 
