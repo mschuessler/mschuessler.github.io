@@ -15,7 +15,7 @@ During my studies I was working for the [Mobile and Physical Interaction Group](
 Recently, I was  working in the [Design Thinking Research Program](https://hpi.de/dtrp/programm/uebersicht.html) upon finishing the Basic Track of [HPI D-School](https://hpi.de/en/school-of-design-thinking/hpi-d-school.html).
 I also hold a Bachelors degree in [Business Informatics](https://farafin.de/studieninteressenten/bachelor/wirtschaftsinformatik) of Otto-von-Guericke University Magdeburg. where I wrote my bachelor [thesis](/pub/BachelorThesis.pdf) under the supervision of [Martin Spindler](https://isgwww.cs.uni-magdeburg.de/isg/spindler.html) and [Prof. Raimund Dachselt](http://mt.inf.tu-dresden.de/~dachselt/).
 
-For my professional experience see my [**CV**](/cv/schuessler_cv.pdf) or have a look at my [LinkedIn Profile](https://www.linkedin.com/in/schuesslerm) (a preview should be shown below).
+For my professional experience see my [**CV**](/pub/schuessler_cv.pdf) or have a look at my [LinkedIn Profile](https://www.linkedin.com/in/schuesslerm) (a preview should be shown below).
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/schuesslerm" data-format="inline"></script>
