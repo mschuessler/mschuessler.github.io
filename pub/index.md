@@ -62,5 +62,6 @@ image:
 ## Submitted Patents
 Bernhard Löhlein, Mehran Roshandel, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), ["Method and system for the evaluation of recorded measured values of a system"](https://data.epo.org/gpi/EP2854045A1-Method-and-system-for-the-evaluation-of-recorded-measured-values-of-a-system) - EPA AZ: 13186464.7 
 
+
 Mehran Roshandel, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/)
 System and method for computing of anomalies based on frequency driven features based on point anomaly density - EPA AZ: 17191626.5 - 1874
