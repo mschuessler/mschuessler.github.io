@@ -28,23 +28,23 @@ kramdown:
 owner:
   name: Martin Schuessler
   avatar: mschuessler.jpg
-  bio: "HCI Student Researcher,Techno±logie Enthusiast"
-  email: schuesslerm@acm.org
-  disqus-shortname: 
+  bio: "XAI/HCI Researcher,Techno±logie Enthusiast"
+  email: website@mschuessler.de
+  disqus-shortname:
   twitter: "@doitgoodbrutus"
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics:
     verify: "QOPuZdReAwCn8cYgRRP3HBYWLYI7ANyntZ-91FQ3VHQ"
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: schuesslerm
   instagram: #username
-  lastfm: mschuessler
+  lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
