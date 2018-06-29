@@ -12,7 +12,7 @@ image:
 Hi, I am Martin - a PhD student at TU Berlin in the field of **[Human Computer Interaction](http://en.wikipedia.org/wiki/Human–computer_interaction.)**.
 As a member of the [Weizenbaum Institute’s](https://vernetzung-und-gesellschaft.de/english/) interdisciplinary research group "Criticality of AI",
 I focus on **[Explainable Artificial Intelligence (XAI)](https://en.wikipedia.org/wiki/Explainable_Artificial_Intelligence)**.
-In particular I am trying to find a XAI framework that helps creators of AI system to support the development of appropriate trust of users in their systems.
+In particular, I am trying to find an XAI framework that helps creators of AI system to support the development of appropriate trust of users in their systems.
 
 My previous research was focused around [*spatial input for peephole displays*](/../SpatialTrackingForHandhelds).
 During my master’s in computer science I was working for the Mobile and Physical Interaction Group led by [Prof. Jörg Müller](http://joergmueller.info), who also supervised my [master thesis](/pub/MasterThesis.pdf).
