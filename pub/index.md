@@ -60,12 +60,13 @@ image:
 [Spatial Input for 2D Peephole Navigation on Mobile Devices](http://mschuessler.de/pub/MasterThesis.pdf)
 
 ## Patents
-*_Granted_*: Bernhard Löhlein, Mehran Roshandel, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), [*"Method and system for the evaluation of recorded measured values of a system"* - EP20130186464](https://data.epo.org/gpi/EP2854045A1-Method-and-system-for-the-evaluation-of-recorded-measured-values-of-a-system)
+***Granted***: Bernhard Löhlein, Mehran Roshandel, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), [*"Method and system for the evaluation of recorded measured values of a system"* - EP20130186464](https://data.epo.org/gpi/EP2854045A1-Method-and-system-for-the-evaluation-of-recorded-measured-values-of-a-system)
 <!-- Application: EPA AZ: 13186464.7 - 1851 Grant: EP2854045B1 https://patents.google.com/patent/EP2854045B1/ja-->
 
 
-*_Submitted_*: Mehran Roshandel, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), Bernhard Löhlein, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler
+***Submitted***: Mehran Roshandel, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), Bernhard Löhlein, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler
 *"System and method for computing of anomalies based on frequency driven features based on point anomaly density"* - EPA AZ: 17191626.5 - 1874
 
-*_Submitted_*: Mehran Roshandel, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), Bernhard Löhlein, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler
+
+***Submitted***: Mehran Roshandel, [Shahin Tajik](http://www.isti.tu-berlin.de/security_in_telecommunications/menue/people/research_assistants/shahin_tajik/), Bernhard Löhlein, [Hamed Ketabdar](https://www.qu.tu-berlin.de/menue/team/partner/hamed_ketabdar/), Martin Schüßler
 *"System and method for combining learning systems"* - EPA AZ: 17187776.4 - 1954
