@@ -20,13 +20,21 @@ image:
 </section><!-- /#table-of-contents -->
 
 
+## CHI 2019
+<p>
+<!-- ACM DL Article: Minimalistic Explanations: Capturing the Essence of Decisions -->
+<div class="acmdlitem" id="item3312823"><img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="https://dl.acm.org/authorize?N673849" title="Minimalistic Explanations: Capturing the Essence of Decisions">Minimalistic Explanations: Capturing the Essence of Decisions</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>, <a href="http://dl.acm.org/author_page.cfm?id=99659366152" >Philipp Weiß</a><br />CHI EA '19 Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems, 2019</div></div>
+<!-- ACM DL Bibliometrics: Minimalistic Explanations: Capturing the Essence of Decisions-->
+<div class="acmdlstat" id ="stats3312823"><iframe src="https://dl.acm.org/authorizestats?N673849" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div>
+</p>
+Also available on [arxiv.org](https://arxiv.org/abs/1905.02994)
 
 ## UbiComp 2015
 <p>
 	<!-- ACM DL Article: Analyzing visual attention during whole body interaction with public displays-->
 	<div class="acmdlitem" id="item2804255"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N07696" title="Analyzing visual attention during whole body interaction with public displays">Analyzing visual attention during whole body interaction with public displays</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81488640442" >Robert Walter</a>, <a href="http://dl.acm.org/author_page.cfm?id=81372593219" >Andreas Bulling</a>, <a href="http://dl.acm.org/author_page.cfm?id=81558156356" >David Lindlbauer</a>, <a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>, <a href="http://dl.acm.org/author_page.cfm?id=81436600078" >Jörg Müller</a><br />UbiComp '15 Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2015</div></div>
 	<!-- ACM DL Bibliometrics: Analyzing visual attention during whole body interaction with public displays-->
-	<div class="acmdlstat" id ="stats2804255"><iframe src="http://dl.acm.org/authorizestats?N07696" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+	<div class="acmdlstat" id ="stats2804255"><iframe src="http://dl.acm.org/authorizestats?N07696" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/gLzqtUE87v8?rel=0" frameborder="0" allowfullscreen></iframe>
 </p>
 
@@ -35,7 +43,7 @@ image:
 <!-- ACM DL Article: Pinch-drag-flick vs. spatial input: rethinking zoom & pan on mobile displays-->
 <div class="acmdlitem" id="item2557028"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N80207" title="Pinch-drag-flick vs. spatial input: rethinking zoom & pan on mobile displays">Pinch-drag-flick vs. spatial input: rethinking zoom & pan on mobile displays</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81320495228" >Martin Spindler</a>, <a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>, <a href="http://dl.acm.org/author_page.cfm?id=81502800558" >Marcel Martsch</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100509454" >Raimund Dachselt</a><br />CHI '14 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2014</div></div>
 <!-- ACM DL Bibliometrics: Pinch-drag-flick vs. spatial input: rethinking zoom & pan on mobile displays-->
-<div class="acmdlstat" id ="stats2557028"><iframe src="http://dl.acm.org/authorizestats?N80207" width="100%" height="60" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<div class="acmdlstat" id ="stats2557028"><iframe src="http://dl.acm.org/authorizestats?N80207" width="100%" height="60" scrolling="no" frameborder="0">frames are not supported</iframe></div>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/-kp08HZ_p5U" frameborder="0" allowfullscreen></iframe>
 </p>
@@ -44,7 +52,7 @@ image:
 <!-- ACM DL Article: Move your phone: spatial input-based document zoom & pan on mobile displays revisited-->
 <div class="acmdlitem" id="item2574777"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?N80208" title="Move your phone: spatial input-based document zoom & pan on mobile displays revisited">Move your phone: spatial input-based document zoom & pan on mobile displays revisited</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81320495228" >Martin Spindler</a>, <a href="http://dl.acm.org/author_page.cfm?id=87959376457" >Martin Schuessler</a>, <a href="http://dl.acm.org/author_page.cfm?id=81502800558" >Marcel Martsch</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100509454" >Raimund Dachselt</a><br />CHI EA '14 CHI '14 Extended Abstracts on Human Factors in Computing Systems, 2014</div></div>
 <!-- ACM DL Bibliometrics: Move your phone: spatial input-based document zoom & pan on mobile displays revisited-->
-<div class="acmdlstat" id ="stats2574777"><iframe src="http://dl.acm.org/authorizestats?N80208" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<div class="acmdlstat" id ="stats2574777"><iframe src="http://dl.acm.org/authorizestats?N80208" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div>
 </p>
 
 ## Design Thinking Research Symposium 2016
